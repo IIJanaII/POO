@@ -1,0 +1,39 @@
+C:\Users\jega_\source\repos\problem1\problem1\obj\Debug\netcoreapp3.1\problem1.csprojAssemblyReference.cache
+C:\Users\jega_\source\repos\problem1\problem1\obj\Debug\netcoreapp3.1\problem1.AssemblyInfoInputs.cache
+C:\Users\jega_\source\repos\problem1\problem1\obj\Debug\netcoreapp3.1\problem1.AssemblyInfo.cs
+C:\Users\jega_\source\repos\problem1\problem1\obj\Debug\netcoreapp3.1\problem1.csproj.CoreCompileInputs.cache
+C:\Users\jega_\source\repos\problem1\problem1\bin\Debug\netcoreapp3.1\problem1.exe
+C:\Users\jega_\source\repos\problem1\problem1\bin\Debug\netcoreapp3.1\problem1.deps.json
+C:\Users\jega_\source\repos\problem1\problem1\bin\Debug\netcoreapp3.1\problem1.runtimeconfig.json
+C:\Users\jega_\source\repos\problem1\problem1\bin\Debug\netcoreapp3.1\problem1.runtimeconfig.dev.json
+C:\Users\jega_\source\repos\problem1\problem1\bin\Debug\netcoreapp3.1\problem1.dll
+C:\Users\jega_\source\repos\problem1\problem1\bin\Debug\netcoreapp3.1\problem1.pdb
+C:\Users\jega_\source\repos\problem1\problem1\obj\Debug\netcoreapp3.1\problem1.dll
+C:\Users\jega_\source\repos\problem1\problem1\obj\Debug\netcoreapp3.1\problem1.pdb
+C:\Users\jega_\source\repos\problem1\problem1\obj\Debug\netcoreapp3.1\problem1.genruntimeconfig.cache
+C:\Users\jega_\source\repos\probleme JEGATHEESWARAN Janany JULIEN Matthieu\problem1\bin\Debug\netcoreapp3.1\problem1.exe
+C:\Users\jega_\source\repos\probleme JEGATHEESWARAN Janany JULIEN Matthieu\problem1\bin\Debug\netcoreapp3.1\problem1.deps.json
+C:\Users\jega_\source\repos\probleme JEGATHEESWARAN Janany JULIEN Matthieu\problem1\bin\Debug\netcoreapp3.1\problem1.runtimeconfig.json
+C:\Users\jega_\source\repos\probleme JEGATHEESWARAN Janany JULIEN Matthieu\problem1\bin\Debug\netcoreapp3.1\problem1.runtimeconfig.dev.json
+C:\Users\jega_\source\repos\probleme JEGATHEESWARAN Janany JULIEN Matthieu\problem1\bin\Debug\netcoreapp3.1\problem1.dll
+C:\Users\jega_\source\repos\probleme JEGATHEESWARAN Janany JULIEN Matthieu\problem1\bin\Debug\netcoreapp3.1\problem1.pdb
+C:\Users\jega_\source\repos\probleme JEGATHEESWARAN Janany JULIEN Matthieu\problem1\obj\Debug\netcoreapp3.1\problem1.csprojAssemblyReference.cache
+C:\Users\jega_\source\repos\probleme JEGATHEESWARAN Janany JULIEN Matthieu\problem1\obj\Debug\netcoreapp3.1\problem1.AssemblyInfoInputs.cache
+C:\Users\jega_\source\repos\probleme JEGATHEESWARAN Janany JULIEN Matthieu\problem1\obj\Debug\netcoreapp3.1\problem1.AssemblyInfo.cs
+C:\Users\jega_\source\repos\probleme JEGATHEESWARAN Janany JULIEN Matthieu\problem1\obj\Debug\netcoreapp3.1\problem1.csproj.CoreCompileInputs.cache
+C:\Users\jega_\source\repos\probleme JEGATHEESWARAN Janany JULIEN Matthieu\problem1\obj\Debug\netcoreapp3.1\problem1.dll
+C:\Users\jega_\source\repos\probleme JEGATHEESWARAN Janany JULIEN Matthieu\problem1\obj\Debug\netcoreapp3.1\problem1.pdb
+C:\Users\jega_\source\repos\probleme JEGATHEESWARAN Janany JULIEN Matthieu\problem1\obj\Debug\netcoreapp3.1\problem1.genruntimeconfig.cache
+C:\Users\jega_\OneDrive\Bureau\Probleme JEGATHEESWARAN Janany JULIEN Matthieu\problem1\bin\Debug\netcoreapp3.1\problem1.exe
+C:\Users\jega_\OneDrive\Bureau\Probleme JEGATHEESWARAN Janany JULIEN Matthieu\problem1\bin\Debug\netcoreapp3.1\problem1.deps.json
+C:\Users\jega_\OneDrive\Bureau\Probleme JEGATHEESWARAN Janany JULIEN Matthieu\problem1\bin\Debug\netcoreapp3.1\problem1.runtimeconfig.json
+C:\Users\jega_\OneDrive\Bureau\Probleme JEGATHEESWARAN Janany JULIEN Matthieu\problem1\bin\Debug\netcoreapp3.1\problem1.runtimeconfig.dev.json
+C:\Users\jega_\OneDrive\Bureau\Probleme JEGATHEESWARAN Janany JULIEN Matthieu\problem1\bin\Debug\netcoreapp3.1\problem1.dll
+C:\Users\jega_\OneDrive\Bureau\Probleme JEGATHEESWARAN Janany JULIEN Matthieu\problem1\bin\Debug\netcoreapp3.1\problem1.pdb
+C:\Users\jega_\OneDrive\Bureau\Probleme JEGATHEESWARAN Janany JULIEN Matthieu\problem1\obj\Debug\netcoreapp3.1\problem1.csprojAssemblyReference.cache
+C:\Users\jega_\OneDrive\Bureau\Probleme JEGATHEESWARAN Janany JULIEN Matthieu\problem1\obj\Debug\netcoreapp3.1\problem1.AssemblyInfoInputs.cache
+C:\Users\jega_\OneDrive\Bureau\Probleme JEGATHEESWARAN Janany JULIEN Matthieu\problem1\obj\Debug\netcoreapp3.1\problem1.AssemblyInfo.cs
+C:\Users\jega_\OneDrive\Bureau\Probleme JEGATHEESWARAN Janany JULIEN Matthieu\problem1\obj\Debug\netcoreapp3.1\problem1.csproj.CoreCompileInputs.cache
+C:\Users\jega_\OneDrive\Bureau\Probleme JEGATHEESWARAN Janany JULIEN Matthieu\problem1\obj\Debug\netcoreapp3.1\problem1.dll
+C:\Users\jega_\OneDrive\Bureau\Probleme JEGATHEESWARAN Janany JULIEN Matthieu\problem1\obj\Debug\netcoreapp3.1\problem1.pdb
+C:\Users\jega_\OneDrive\Bureau\Probleme JEGATHEESWARAN Janany JULIEN Matthieu\problem1\obj\Debug\netcoreapp3.1\problem1.genruntimeconfig.cache
